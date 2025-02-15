@@ -3,6 +3,8 @@
 ## Overview
 This Mystore portal is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and provides seamless user authentication, product search, cart management, and order handling. Users can securely sign up, log in, browse products, add items to their cart, and place orders. The backend ensures secure authentication using JWT, payment processing via Razorpay with refund management. The system follows an MVC architecture, ensuring scalability and maintainability. Redux is used for state management on the frontend, and Mongoose handles database interactions efficiently. The application is designed to be fully responsive, delivering a smooth shopping experience across devices.
 
+## Live Demo  
+🔗 **Host Link:** [https://mystore-frontend-five.vercel.app/]
 ## Design Details
 ### High-Level Design Considerations
 
