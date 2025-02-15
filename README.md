@@ -8,11 +8,11 @@ This Mystore portal is built using the MERN stack (MongoDB, Express.js, React.js
 ## Design Details
 ### High-Level Design Considerations
 
-![High-Level Design](add_image_here)
+![High-Level Design](one.png)
 
 ### Schema Diagram
 
-![Schema Diagram](add_image_here)
+![Schema Diagram](two.png)
 
 ## Low-Level Design (LLD)
 
